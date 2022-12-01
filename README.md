@@ -15,10 +15,10 @@
 
 Настройка сцены, иерархии, использованные объекты и скрипты.
 
-_________________![1](https://user-images.githubusercontent.com/119228138/204782911-f8b40af2-ed7b-40d0-8a72-913984b18841.png)
+       ![1](https://user-images.githubusercontent.com/119228138/204782911-f8b40af2-ed7b-40d0-8a72-913984b18841.png)
 
 
-_________________Рисунок 12.1 –Создание и настройка сцены, и использования объектов.
+       Рисунок 12.1 –Создание и настройка сцены, и использования объектов.
 
 ```1)	Скрипт  DamageHandler.cs
 
@@ -291,23 +291,23 @@ public class SelfDestruct : MonoBehaviour
 ```
 10) Растановка Объектов
 
-_____________![image](https://user-images.githubusercontent.com/119228138/204783564-3b223d1d-20b9-4e7d-990d-13bb7dc8bcd6.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204783564-3b223d1d-20b9-4e7d-990d-13bb7dc8bcd6.png)
 
-_____________Рис.12.2 Расставленные объекты
+       Рис.12.2 Расставленные объекты
 
 11)Настройка объектов
 
-_____________![image](https://user-images.githubusercontent.com/119228138/204786168-f44cd882-e276-4d9a-b1b0-831fee70bfda.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204786168-f44cd882-e276-4d9a-b1b0-831fee70bfda.png)
 
-_____________Рис.12.3 Настройка Main Camera
+       Рис.12.3 Настройка Main Camera
 
-_____________![image](https://user-images.githubusercontent.com/119228138/204786461-ef47e7d7-b597-4eba-98f2-27faafee09ca.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204786461-ef47e7d7-b597-4eba-98f2-27faafee09ca.png)
 
-_____________Рис.12.4 Настройка PlayerSpawnSpot
+       Рис.12.4 Настройка PlayerSpawnSpot
 
-_____________![image](https://user-images.githubusercontent.com/119228138/204786650-5a4c32bd-d6ab-4582-93bc-83736911f934.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204786650-5a4c32bd-d6ab-4582-93bc-83736911f934.png)
 
-_____________Рис.12.4 Настройка EnemySpawner
+       Рис.12.4 Настройка EnemySpawner
 
 Вывод: В ходе проделанной работы - Разработана игра SpaceShooter.
 
